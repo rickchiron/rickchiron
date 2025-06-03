@@ -16,7 +16,8 @@
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
-  
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FVisual_Studio_Code&psig=AOvVaw1igbx1UQ-zMqu4z1f3dO3Q&ust=1749060069645000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDjvtPq1Y0DFQAAAAAdAAAAABAE"
+    
   <!-- Add more icons based on your stack -->
 </p>
 
