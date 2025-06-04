@@ -16,7 +16,11 @@
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuER1tOoBap4qZ8V7OUsbf-quqFfEjj3Jnzg&s"
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuER1tOoBap4qZ8V7OUsbf-quqFfEjj3Jnzg&s">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmSmJgXu6kW8ONXMTLq0LD6BJGFV3Hoc0DRg&s">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/BlueJ_Logo.png">
+  <img src="![image](https://github.com/user-attachments/assets/c0a17473-fcb4-406a-a50b-5ee4ad44261f)">
+<img src
     
   <!-- Add more icons based on your stack -->
 </p>
